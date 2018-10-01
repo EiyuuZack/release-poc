@@ -1,0 +1,22 @@
+{
+  "name": "release-poc",
+  "version": "1.2.4",
+  "description": "Test gh-releases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EiyuuZack/release-poc.git"
+  },
+  "keywords": [
+    "poc"
+  ],
+  "author": "João Ferreira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EiyuuZack/release-poc/issues"
+  },
+  "homepage": "https://github.com/EiyuuZack/release-poc#readme"
+}
