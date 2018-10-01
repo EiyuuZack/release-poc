@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [1.3.0] - 2018-10-01
 ### Additions
 - Log multiple applications (one at a time) on Android by allowing to change host and application name [RNMT-1549](https://outsystemsrd.atlassian.net/browse/RNMT-1549)
 
@@ -42,7 +44,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Additions
 - Listen and react to events broadcast from [cordova-outsystems-broadcaster](https://github.com/OutSystems/cordova-outsystems-broadcaster), such as stop emitting when there is no network available
 
-[Unreleased]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.2.4...HEAD
+[1.3.0]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.3.0...HEAD
+[1.3.0]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.2.4...1.3.0
 [1.2.4]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.2.3...1.2.4
 [1.2.3]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.2.2...1.2.3
 [1.2.2]: https://github.com/OutSystems/cordova-outsystems-logger/compare/1.2.1...1.2.2
